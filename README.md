@@ -1,6 +1,6 @@
-#READ ME
+# READ ME
 
-##Javascript Tutorial
+## Javascript Tutorial
 
 0.1
 Learn Console log
